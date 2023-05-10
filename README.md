@@ -1,5 +1,10 @@
-### Hi there 👋
+### Merhaba ben Öme Faruk GÜL 👋
 
+Merhaba, ben bir bilgisayar programcısıyım ve özellikle .Net Core Framework'üne ilgi duyuyorum. C# diliyle web geliştirme konusunda kendimi geliştirmeye çalışıyorum ve bu alanda en son teknolojileri takip ediyorum.
+
+Clean Code, SOLID, DRY gibi yazılım prensiplerini benimseyerek kod yazmaya özen gösteriyorum ve ayrıca Design Pattern konusunda da bu kalıpları projelerime dahil etmeye çalışıyorum. C#'ın yanı sıra Html, Css, Javascript ve Bootstrap gibi teknolojilerle de projelerimi destekliyorum.
+
+Ayrıca şu teknolojilerle de ilgileniyorum; Docker, gRPC, Graphql, Micro Services, CQRS, RabbitMQ, Kafka, Redis
 <!--
 **omerfarukgull/omerfarukgull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
