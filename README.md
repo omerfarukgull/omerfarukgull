@@ -6,9 +6,9 @@ Clean Code, SOLID, DRY gibi yazılım prensiplerini benimseyerek kod yazmaya öz
 
 Ayrıca şu teknolojilerle de ilgileniyorum; Docker, gRPC, Graphql, Micro Services, CQRS, RabbitMQ, Kafka, Redis
 
-Şu an aktif olrak Asp.Net ve .NET Core Framework ile projeler geliştiriyorum.
+👨‍💻 Şu an aktif olrak Asp.Net ve .NET Core Framework ile projeler geliştiriyorum.
 
-## Yetenekler:
+## 💻 Yetenekler:
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
