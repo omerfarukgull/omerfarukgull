@@ -1,5 +1,4 @@
 ### Merhaba ben Ömer Faruk GÜL 👋
-<div class="tenor-gif-embed" data-postid="24999202" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/develop-web-design-software-web-designer-gif-24999202">Develop Web Sticker</a>from <a href="https://tenor.com/search/develop-stickers">Develop Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 💻 Ben bir bilgisayar programcısıyım ve özellikle .Net Core Framework'üne ilgi duyuyorum. C# diliyle web geliştirme konusunda kendimi geliştirmeye çalışıyorum ve bu alanda en son teknolojileri takip ediyorum.
 
