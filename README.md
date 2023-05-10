@@ -1,5 +1,6 @@
 ### Merhaba ben Ömer Faruk GÜL 👋
-
+https://github.com/omerfarukgull/omerfarukgull/blob/main/develop-web.gif
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
 💻 Ben bir bilgisayar programcısıyım ve özellikle .Net Core Framework'üne ilgi duyuyorum. C# diliyle web geliştirme konusunda kendimi geliştirmeye çalışıyorum ve bu alanda en son teknolojileri takip ediyorum.
 
 Clean Code, SOLID, DRY gibi yazılım prensiplerini benimseyerek kod yazmaya özen gösteriyorum ve ayrıca Design Pattern konusunda da bu kalıpları projelerime dahil etmeye çalışıyorum. C#'ın yanı sıra Html, Css, Javascript ve Bootstrap gibi teknolojilerle de projelerimi destekliyorum.
